@@ -22,6 +22,7 @@ body{
 
 h1{
     text-align: center;
+    color: rgb(92, 185, 189);
 }
 
 .label-text{
@@ -39,8 +40,12 @@ button{
     padding: 12px;
     width: 100%;
     border: none;
+    background-color: rgb(92, 185, 189);
+    color: #fff;
 }
 
-.register-link{
-    
+.a-href-1{
+    list-style: none;
+    text-decoration: none;
+    color: rgb(92, 185, 189);
 }
