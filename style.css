@@ -49,3 +49,7 @@ button{
     text-decoration: none;
     color: rgb(92, 185, 189);
 }
+
+.label-text, .inputs-type, .remember, .btn-login, .register-link {
+    margin-bottom: 10px; 
+}
