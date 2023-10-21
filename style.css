@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body{
@@ -9,5 +10,37 @@ body{
 }
 
 .div-container{
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    padding: 50px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+h1{
+    text-align: center;
+}
+
+.label-text{
+    font-size: 12px;
+}
+
+.inputs-type{
+    padding: 12px;
+    border: none;
+    background-color: aliceblue;
+}
+
+button{
+    font-size: 16px;
+    padding: 12px;
+    width: 100%;
+    border: none;
+}
+
+.register-link{
     
 }
