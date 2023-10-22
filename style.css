@@ -13,6 +13,11 @@ body {
     height: 100vh; 
 }
 
+form{
+    border-radius: 10px;
+    box-shadow: 0px 10px 40px #00000056;
+}
+
 .div-container {
     background-color: #fff;
     max-width: 400px;
